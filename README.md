@@ -16,6 +16,7 @@ Components
 Circuit Diagram
 
 
+<img width="501" height="422" alt="Schematic Diagram" src="https://github.com/user-attachments/assets/5123e4d9-77be-4323-8446-878a8967143f" />
 
 
 Procedure
@@ -36,6 +37,15 @@ Verify the PCB layout using a Gerber viewer.
 
 
 Output:
+## PCB Layout
+
+<img width="559" height="365" alt="PCB Layout" src="https://github.com/user-attachments/assets/7d69db01-905e-4e8d-8ab7-a83e59ffabf3" />
+
+---
+
+## 3D PCB View
+
+<img width="661" height="433" alt="3D PCB View" src="https://github.com/user-attachments/assets/7fca4819-524e-475a-9e16-adc874de055d" />
 
 
 
